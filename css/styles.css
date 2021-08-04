@@ -1,0 +1,14 @@
+h2.intro{
+  font-style: italic;
+  color: darkgrey;
+}
+
+p.intro{
+  font-style: bold;
+  color:darkred;
+}
+
+img.intro{
+  border-style: solid;
+  border-color: darkolivegreen;
+}
