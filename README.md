@@ -1,6 +1,6 @@
 # Boring Lecture
 
-#### By:Anna Clarke and Paige Tiedeman
+#### By: Anna Clarke and Paige Tiedeman
 
 #### Description
 
@@ -11,7 +11,9 @@ A website with text to bore you.
 * HTML
 * CSS
 
-#### This website was created to learn css styling concepts.
+#### Description
+
+This website was created to learn css styling concepts.
 
 #### Known Bugs:
 
